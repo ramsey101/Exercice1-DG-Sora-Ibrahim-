@@ -39,7 +39,7 @@ if (isVapeur) :
 # Exercice 3
 a = int(input("Entrez votre nombre : "))
 
-n = 0
+n = 1
 
 Hn = 0
 
