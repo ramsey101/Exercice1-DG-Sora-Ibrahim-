@@ -4,7 +4,7 @@ temp = float (input ("Entrez la temperature de l 'eau : "))
 if temp <= 0 :
 
     print ("Cette temperature correspond à de la glace")
-elif temp < 100 :
+elif temp < 100 and temp > 0 :
 
     print ("Cette temperature correspond à du liquide")
 else :
